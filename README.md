@@ -31,7 +31,7 @@ Three different data sources were analyzed within tract ID numbers for each Balt
 
 [DC](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/income%20stay%20DC.csv)
 
-# Cleaning-Opportunity-Atlas-Data
+## Cleaning-Opportunity-Atlas-Data
 The first step in data analysis is to clean Baltimore City and Washington DC publicly available data in order to track social mobility.
 
 ## Initial Data Cleaning Using Python
@@ -68,7 +68,14 @@ These two data sources measure the percentage of adults who stay within a specif
 #### Baltimore
 ![alt text](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/BaltimoreStayImage.png)
 
+## What are the median household income of families and that of families who stayed in the same commuting zone?
+![alt_text]()
 
+## What does the distribution of tracts in Baltimore City look like based on the median income?
+![alt_text]()
+
+## What does the distribution of tracts in Washington, DC look like based on the median income?
+![alt_text]()
 
 ## Project Directions
 A step by step description of the code needed to complete this project can be found [here](https://colab.research.google.com/drive/1eCiJZyu8E-9K_7lrFo50r6eRZxm5udtH#scrollTo=xb1ebKmGSEZH).  This allows replication of this project so that others can clean these same data sources and perform their own analysis on social mobility in these two cities.
