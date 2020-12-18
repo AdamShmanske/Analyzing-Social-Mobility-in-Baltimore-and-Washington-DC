@@ -77,7 +77,7 @@ These two data sources measure the percentage of adults who stay within a specif
 ## What does the distribution of tracts in Washington, DC look like based on the median income?
 ![alt_text](https://github.com/AdamShmanske/Analyzing-Social-Mobility-in-Baltimore-and-Washington-DC/blob/main/histogram%20DC.png)
 
-## Data Visualizations (Box Plots)
+## Box Plots
 
 ### Baltimore vs DC Median Income
 ![alt_text](https://github.com/yoselassie99/Analyzing-Social-Mobility-in-Baltimore-and-DC-Using-Boxplots/blob/main/BaltimoreMedianIncomePlot.png)
@@ -94,9 +94,6 @@ These two data sources measure the percentage of adults who stay within a specif
 - Q3 Income is $40.0K
 - The median is $30.3K
 
-### Summary on Baltimore vs DC Median Income 
-DC overall has greater income than Baltimore. Highest income, lowest income, Q1, Q3 and median in DC were all higher than in Baltimore. This would suggest children in DC are afforded more opportunities than children in Baltimore based on parents' income. 
-
 ### Baltimore vs DC Stayed In Commuting Zone Income
 ![alt_text](https://github.com/yoselassie99/Analyzing-Social-Mobility-in-Baltimore-and-DC-Using-Boxplots/blob/main/BaltimoreIncomeStay.png)
 - Maximum Income is $68.1K
@@ -111,8 +108,6 @@ DC overall has greater income than Baltimore. Highest income, lowest income, Q1,
 - Q1 Income is $26.5K
 - Q3 Income is $37.7K
 - The median is $30.6K
-### Summary on Baltimore vs DC Stayed in Commuting Zone Income 
-Again, income of those that stayed in DC is greater than those that stayed in Baltimore. This could be because of the economic growth experienced in DC, as discussed in the background section. As a result, there are greater and more fruitful opportunities. Opportunities in Baltimore may not rival similar opportunities in other cities, which would result in Baltimore residents moving out for higher wages. 
 
 ### Baltimore vs DC Percentage Stayed 
 ![alt_text](https://github.com/yoselassie99/Analyzing-Social-Mobility-in-Baltimore-and-DC-Using-Boxplots/blob/main/BaltimoreStayPercentage.png)
@@ -128,10 +123,6 @@ Again, income of those that stayed in DC is greater than those that stayed in Ba
 - Q1 Percentage is 17.7%
 - Q3 Percentage is 26.5%
 - The median is 22.6%
-
-### Summary on Baltimore vs DC Percentage
-DC and Baltimore are fairly similar in terms of percentage of residents that stay in their communiting zones as adults. The only noticeable difference between the two boxplots is the Q3 in DC is about 27% while Q3 in Baltimore is about 24%. Reasons for why a higher percentage of people may choose to stay in DC versus Baltimore is because better living conditions in DC compared to Baltimore makes staying in the city more attractive. In addition, there may be better opportunities in DC than Baltimore, further incentivizing residents to stay in the city. 
-
 
 ## Project Directions
 A step by step description of the code needed to complete this project can be found [here](https://colab.research.google.com/drive/1eCiJZyu8E-9K_7lrFo50r6eRZxm5udtH#scrollTo=xb1ebKmGSEZH).  This allows replication of this project so that others can clean these same data sources and perform their own analysis on social mobility in these two cities.
