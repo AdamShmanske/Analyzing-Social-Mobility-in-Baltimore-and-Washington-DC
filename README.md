@@ -129,18 +129,22 @@ Before performing the multiple linear regression, I wanted to graphically repres
 
 ### Baltimore, Median Income vs. Percentage Stay
 ![](.gitbook/assets/balti-pcnt.png)
+
 Although this plot does not demonstrate a strict linear relationship, there is still an obvious trend relating the dependent variable to the median income metric. This graph, like the others below, visually demonstrates the viability of including this variable in the multiple linear regression analysis.
 
 ### Baltimore, Median Income vs. Income of Workers Living in Commuting Zone
 ![](.gitbook/assets/balti-income.png)
+
 This plot presents a nearly exact linear relationship. This is likely due to the similar population group surveyed in the dependent and independent variable dataset. However, this is still some minor variation in the data.
 
 ### DC, Median Income vs. Percentage Stay
 ![](.gitbook/assets/dc-pcnt.png)
+
 Much like the Baltimore graph for this independent variable, the dataset does not exactly adhere to a linear relationship. However, there is a clear trend relating the two metrics.
 
 ### DC, Median Income vs. Income of Workers Living in Commuting Zone
 ![](.gitbook/assets/dc-income.png)
+
 This plot, again like the Baltimore graph, shows a nearly linear relationship between the included variables. There is some deviation, but the relationship is clear.
 
 The trends observed in the above single linear regression graphs are indicative of the numerical relevance of each independent variable. Notably, the trends are visually very similar between the two cities, perhaps indicative of a similar relationship.
