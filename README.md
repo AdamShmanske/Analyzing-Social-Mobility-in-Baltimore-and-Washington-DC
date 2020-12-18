@@ -72,7 +72,7 @@ These two data sources measure the percentage of adults who stay within a specif
 ![alt_text](https://github.com/AdamShmanske/Analyzing-Social-Mobility-in-Baltimore-and-Washington-DC/blob/main/average%20incomes.png)
 
 ## What does the distribution of tracts in Baltimore City look like based on the median income?
-![alt_text]()
+![alt_text](https://github.com/AdamShmanske/Analyzing-Social-Mobility-in-Baltimore-and-Washington-DC/blob/main/histogram%20Baltimore.png)
 
 ## What does the distribution of tracts in Washington, DC look like based on the median income?
 ![alt_text]()
