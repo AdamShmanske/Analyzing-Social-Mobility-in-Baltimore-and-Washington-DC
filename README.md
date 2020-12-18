@@ -69,7 +69,7 @@ These two data sources measure the percentage of adults who stay within a specif
 ![alt text](https://github.com/AdamShmanske/Cleaning-Opportunity-Atlas-Data/blob/main/BaltimoreStayImage.png)
 
 ## What are the median household income of families and that of families who stayed in the same commuting zone?
-![alt_text]()
+![alt_text](https://github.com/AdamShmanske/Analyzing-Social-Mobility-in-Baltimore-and-Washington-DC/blob/main/average%20incomes.png)
 
 ## What does the distribution of tracts in Baltimore City look like based on the median income?
 ![alt_text]()
