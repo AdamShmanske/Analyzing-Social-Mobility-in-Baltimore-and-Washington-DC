@@ -78,7 +78,7 @@ These two data sources measure the percentage of adults who stay within a specif
 ![alt_text](https://github.com/AdamShmanske/Analyzing-Social-Mobility-in-Baltimore-and-Washington-DC/blob/main/histogram%20DC.png)
 
 ## Data Visualizations (Box Plots)
-Data was analyzed and converted to visualizations using Python on [Google Colaboratory](https://colab.research.google.com/drive/1eCiJZyu8E-9K_7lrFo50r6eRZxm5udtH#scrollTo=RF_ektsqQ_91).
+
 ### Baltimore vs DC Median Income
 ![alt_text](https://github.com/yoselassie99/Analyzing-Social-Mobility-in-Baltimore-and-DC-Using-Boxplots/blob/main/BaltimoreMedianIncomePlot.png)
 - Highest Income is $75.5K
